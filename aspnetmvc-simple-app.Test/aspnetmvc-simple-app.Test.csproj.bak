@@ -137,4 +137,5 @@
     <Error Condition="!Exists('..\aspnetmvc-simple-app\packages\NUnit.3.12.0\build\NUnit.props')" Text="$([System.String]::Format('$(ErrorText)', '..\aspnetmvc-simple-app\packages\NUnit.3.12.0\build\NUnit.props'))" />
     <Error Condition="!Exists('..\aspnetmvc-simple-app\packages\NUnit3TestAdapter.3.16.1\build\net35\NUnit3TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\aspnetmvc-simple-app\packages\NUnit3TestAdapter.3.16.1\build\net35\NUnit3TestAdapter.props'))" />
   </Target> -->
+
 </Project>
